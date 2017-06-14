@@ -27,4 +27,4 @@ With the appropriate tools, you can scrap, parse, analyse, graph data and so muc
 4. The most important part is when you try it yourself
 5. Excel formulas can be much more complicated than actual code
 6. If your code is too complicated, there must be another solution
-6. If your Excel is too complicated, you switch to code
+6. If your Excel is too complicated, switch to code
