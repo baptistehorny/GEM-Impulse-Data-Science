@@ -1,550 +1,79 @@
-Année;Trimestre;code;typeprod;NB;MW
-2010;3;600;Autres;0;0.0
-2010;4;600;Autres;6;44.07
-2010;4;400;Bio énergie;9;4.7
-2010;1;500;Cogénération;3;10.33
-2010;4;500;Cogénération;27;66.11
-2010;2;200;Eolien;25;209.68
-2010;1;300;Hydraulique;18;14.1
-2010;4;300;Hydraulique;22;30.92
-2010;2;400;Bio énergie;4;5.39
-2010;1;100;Photovoltaïque;21476;94.45
-2010;2;600;Autres;0;0.0
-2010;1;400;Bio énergie;6;13.31
-2010;1;200;Eolien;31;125.27
-2010;4;200;Eolien;43;361.81
-2010;3;300;Hydraulique;7;1.5
-2010;3;100;Photovoltaïque;30280;218.79
-2010;1;600;Autres;0;0.0
-2010;3;200;Eolien;49;386.54
-2010;2;500;Cogénération;2;1.38
-2010;3;500;Cogénération;0;0.0
-2010;3;400;Bio énergie;11;14.68
-2010;2;300;Hydraulique;11;4.15
-2010;2;100;Photovoltaïque;19275;140.25
-2010;4;100;Photovoltaïque;31524;233.78
-Année;Trimestre;code;typeprod;NB;MW
-2009;4;600;Autres;0;0.0
-2009;2;400;Bio énergie;0;0.0
-2009;2;500;Cogénération;1;2.0
-2009;3;300;Hydraulique;15;5.88
-2009;4;100;Photovoltaïque;13157;67.48
-2009;1;600;Autres;2;14.85
-2009;1;400;Bio énergie;9;14.37
-2009;3;500;Cogénération;2;0.05
-2009;1;200;Eolien;39;276.04
-2009;2;200;Eolien;42;288.93
-2009;4;200;Eolien;45;296.6
-2009;2;600;Autres;0;0.0
-2009;3;400;Bio énergie;6;16.55
-2009;4;500;Cogénération;21;59.56
-2009;3;200;Eolien;37;239.47
-2009;4;300;Hydraulique;19;6.56
-2009;4;400;Bio énergie;8;12.76
-2009;2;300;Hydraulique;10;4.66
-2009;3;600;Autres;0;0.0
-2009;1;500;Cogénération;6;34.44
-2009;1;300;Hydraulique;16;7.88
-2009;1;100;Photovoltaïque;7049;30.58
-2009;2;100;Photovoltaïque;7825;38.16
-2009;3;100;Photovoltaïque;9079;44.02
-2010;3;600;Autres;0;0.0
-2010;4;600;Autres;6;44.07
-2010;4;400;Bio énergie;9;4.7
-2010;1;500;Cogénération;3;10.33
-2010;4;500;Cogénération;27;66.11
-2010;2;200;Eolien;25;209.68
-2010;1;300;Hydraulique;18;14.1
-2010;4;300;Hydraulique;22;30.92
-2010;2;400;Bio énergie;4;5.39
-2010;1;100;Photovoltaïque;21476;94.45
-2010;2;600;Autres;0;0.0
-2010;1;400;Bio énergie;6;13.31
-2010;1;200;Eolien;31;125.27
-2010;4;200;Eolien;43;361.81
-2010;3;300;Hydraulique;7;1.5
-2010;3;100;Photovoltaïque;30280;218.79
-2010;1;600;Autres;0;0.0
-2010;3;200;Eolien;49;386.54
-2010;2;500;Cogénération;2;1.38
-2010;3;500;Cogénération;0;0.0
-2010;3;400;Bio énergie;11;14.68
-2010;2;300;Hydraulique;11;4.15
-2010;2;100;Photovoltaïque;19275;140.25
-2010;4;100;Photovoltaïque;31524;233.78
-2011;3;600;Autres;0;0.0
-2011;3;400;Bio énergie;14;11.76
-2011;4;500;Cogénération;41;112.39
-2011;1;200;Eolien;28;212.59
-2011;1;300;Hydraulique;20;9.71
-2011;2;300;Hydraulique;11;3.87
-2011;2;100;Photovoltaïque;21421;378.04
-2011;1;600;Autres;1;6.65
-2011;1;400;Bio énergie;13;6.32
-2011;2;400;Bio énergie;4;10.95
-2011;1;100;Photovoltaïque;35164;313.19
-2011;2;600;Autres;6;29.98
-2011;1;500;Cogénération;6;25.06
-2011;2;200;Eolien;22;129.59
-2011;3;200;Eolien;25;197.3
-2011;3;100;Photovoltaïque;12189;418.31
-2011;4;600;Autres;2;9.82
-2011;4;400;Bio énergie;10;8.6
-2011;2;500;Cogénération;1;0.04
-2011;3;500;Cogénération;1;1.99
-2011;4;200;Eolien;25;129.66
-2011;3;300;Hydraulique;14;7.52
-2011;4;300;Hydraulique;21;10.42
-2011;4;100;Photovoltaïque;8782;395.88
-2012;3;600;Autres;1;6.76
-2012;4;400;Bio énergie;17;21.75
-2012;1;200;Eolien;18;97.61
-2012;3;300;Hydraulique;25;12.99
-2012;1;600;Autres;16;109.88
-2012;2;200;Eolien;16;121.59
-2012;1;300;Hydraulique;19;6.65
-2012;1;100;Photovoltaïque;9435;309.34
-2012;4;100;Photovoltaïque;8192;83.9
-2012;1;400;Bio énergie;20;31.2
-2012;3;400;Bio énergie;14;20.71
-2012;1;500;Cogénération;9;23.56
-2012;2;500;Cogénération;1;0.02
-2012;3;200;Eolien;34;259.43
-2012;4;300;Hydraulique;220;126.48
-2012;3;100;Photovoltaïque;7656;96.56
-2012;4;600;Autres;2;5.4
-2012;2;400;Bio énergie;22;18.4
-2012;4;500;Cogénération;23;58.36
-2012;3;500;Cogénération;4;4.45
-2012;4;200;Eolien;32;246.63
-2012;2;600;Autres;19;123.87
-2012;2;300;Hydraulique;21;10.73
-2012;2;100;Photovoltaïque;7881;226.43
-2014;1;500;Cogénération;2;8.69
-2014;1;200;Eolien;17;108.87
-2014;3;200;Eolien;25;224.68
-2014;1;100;Photovoltaïque;7066;189.09
-2014;2;100;Photovoltaïque;6979;206.61
-2014;4;400;Bio énergie;18;22.71
-2014;4;500;Cogénération;24;76.32
-2014;4;100;Photovoltaïque;5324;186.26
-2014;4;600;Autres;1;0.99
-2014;1;400;Bio énergie;23;47.54
-2014;2;400;Bio énergie;15;5.42
-2014;3;400;Bio énergie;22;25.95
-2014;2;500;Cogénération;0;0.0
-2014;3;500;Cogénération;0;0.0
-2014;3;300;Hydraulique;18;7.76
-2014;4;300;Hydraulique;27;25.21
-2014;3;100;Photovoltaïque;6294;275.65
-2014;1;600;Autres;5;7.9
-2014;3;600;Autres;1;0.8
-2014;2;300;Hydraulique;18;2.72
-2014;2;600;Autres;2;10.08
-2014;2;200;Eolien;31;267.67
-2014;4;200;Eolien;40;346.75
-2014;1;300;Hydraulique;34;4.34
-2015;1;600;Autres;4;10.55
-2015;2;600;Autres;1;5.0
-2015;3;600;Autres;1;2.5
-2015;2;400;Bio énergie;22;32.81
-2015;1;500;Cogénération;5;26.94
-2015;3;500;Cogénération;2;0.11
-2015;2;200;Eolien;16;133.54
-2015;4;300;Hydraulique;43;35.16
-2015;1;200;Eolien;20;214.59
-2015;2;300;Hydraulique;24;4.17
-2015;3;300;Hydraulique;22;2.53
-2015;3;100;Photovoltaïque;4078;155.1
-2015;4;600;Autres;1;0.25
-2015;3;400;Bio énergie;12;6.35
-2015;4;400;Bio énergie;11;5.54
-2015;1;300;Hydraulique;29;17.19
-2015;1;100;Photovoltaïque;4440;211.4
-2015;2;100;Photovoltaïque;3991;155.46
-2015;2;500;Cogénération;1;0.04
-2015;4;500;Cogénération;36;86.77
-2015;3;200;Eolien;27;242.77
-2015;1;400;Bio énergie;23;10.79
-2015;4;200;Eolien;30;292.34
-2015;4;100;Photovoltaïque;4417;86.27
-2016;2;600;Autres;0;0.0
-2016;4;600;Autres;3;4.69
-2016;4;500;Cogénération;69;174.0
-2016;2;200;Eolien;35;349.41
-2016;2;100;Photovoltaïque;4070;145.03
-2016;4;100;Photovoltaïque;3161;101.9
-2016;3;600;Autres;0;0.0
-2016;3;200;Eolien;26;217.1
-2016;1;600;Autres;0;0.0
-2016;1;400;Bio énergie;17;18.63
-2016;2;500;Cogénération;0;0.0
-2016;4;300;Hydraulique;20;6.24
-2016;1;100;Photovoltaïque;4842;176.44
-2016;3;100;Photovoltaïque;3605;112.55
-2016;2;400;Bio énergie;23;7.75
-2016;1;200;Eolien;17;128.91
-2016;1;300;Hydraulique;26;4.46
-2016;2;300;Hydraulique;22;15.59
-2016;3;300;Hydraulique;11;8.37
-2016;3;400;Bio énergie;22;11.41
-2016;4;400;Bio énergie;14;15.67
-2016;1;500;Cogénération;7;13.55
-2016;3;500;Cogénération;4;7.09
-2016;4;200;Eolien;56;498.59
-2017;1;400;Bio énergie;20;9.27
-2017;1;600;Autres;1;0.05
-2017;1;500;Cogénération;14;61.19
-2017;1;200;Eolien;27;228.86
-2017;1;300;Hydraulique;24;15.75
-2017;1;100;Photovoltaïque;3753;74.8
-Année;Trimestre;code;typeprod;NB;MW
-2009;4;600;Autres;0;0.0
-2009;2;400;Bio énergie;0;0.0
-2009;2;500;Cogénération;1;2.0
-2009;3;300;Hydraulique;15;5.88
-2009;4;100;Photovoltaïque;13157;67.48
-2009;1;600;Autres;2;14.85
-2009;1;400;Bio énergie;9;14.37
-2009;3;500;Cogénération;2;0.05
-2009;1;200;Eolien;39;276.04
-2009;2;200;Eolien;42;288.93
-2009;4;200;Eolien;45;296.6
-2009;2;600;Autres;0;0.0
-2009;3;400;Bio énergie;6;16.55
-2009;4;500;Cogénération;21;59.56
-2009;3;200;Eolien;37;239.47
-2009;4;300;Hydraulique;19;6.56
-2009;4;400;Bio énergie;8;12.76
-2009;2;300;Hydraulique;10;4.66
-2009;3;600;Autres;0;0.0
-2009;1;500;Cogénération;6;34.44
-2009;1;300;Hydraulique;16;7.88
-2009;1;100;Photovoltaïque;7049;30.58
-2009;2;100;Photovoltaïque;7825;38.16
-2009;3;100;Photovoltaïque;9079;44.02
-2010;3;600;Autres;0;0.0
-2010;4;600;Autres;6;44.07
-2010;4;400;Bio énergie;9;4.7
-2010;1;500;Cogénération;3;10.33
-2010;4;500;Cogénération;27;66.11
-2010;2;200;Eolien;25;209.68
-2010;1;300;Hydraulique;18;14.1
-2010;4;300;Hydraulique;22;30.92
-2010;2;400;Bio énergie;4;5.39
-2010;1;100;Photovoltaïque;21476;94.45
-2010;2;600;Autres;0;0.0
-2010;1;400;Bio énergie;6;13.31
-2010;1;200;Eolien;31;125.27
-2010;4;200;Eolien;43;361.81
-2010;3;300;Hydraulique;7;1.5
-2010;3;100;Photovoltaïque;30280;218.79
-2010;1;600;Autres;0;0.0
-2010;3;200;Eolien;49;386.54
-2010;2;500;Cogénération;2;1.38
-2010;3;500;Cogénération;0;0.0
-2010;3;400;Bio énergie;11;14.68
-2010;2;300;Hydraulique;11;4.15
-2010;2;100;Photovoltaïque;19275;140.25
-2010;4;100;Photovoltaïque;31524;233.78
-2011;3;600;Autres;0;0.0
-2011;3;400;Bio énergie;14;11.76
-2011;4;500;Cogénération;41;112.39
-2011;1;200;Eolien;28;212.59
-2011;1;300;Hydraulique;20;9.71
-2011;2;300;Hydraulique;11;3.87
-2011;2;100;Photovoltaïque;21421;378.04
-2011;1;600;Autres;1;6.65
-2011;1;400;Bio énergie;13;6.32
-2011;2;400;Bio énergie;4;10.95
-2011;1;100;Photovoltaïque;35164;313.19
-2011;2;600;Autres;6;29.98
-2011;1;500;Cogénération;6;25.06
-2011;2;200;Eolien;22;129.59
-2011;3;200;Eolien;25;197.3
-2011;3;100;Photovoltaïque;12189;418.31
-2011;4;600;Autres;2;9.82
-2011;4;400;Bio énergie;10;8.6
-2011;2;500;Cogénération;1;0.04
-2011;3;500;Cogénération;1;1.99
-2011;4;200;Eolien;25;129.66
-2011;3;300;Hydraulique;14;7.52
-2011;4;300;Hydraulique;21;10.42
-2011;4;100;Photovoltaïque;8782;395.88
-2012;3;600;Autres;1;6.76
-2012;4;400;Bio énergie;17;21.75
-2012;1;200;Eolien;18;97.61
-2012;3;300;Hydraulique;25;12.99
-2012;1;600;Autres;16;109.88
-2012;2;200;Eolien;16;121.59
-2012;1;300;Hydraulique;19;6.65
-2012;1;100;Photovoltaïque;9435;309.34
-2012;4;100;Photovoltaïque;8192;83.9
-2012;1;400;Bio énergie;20;31.2
-2012;3;400;Bio énergie;14;20.71
-2012;1;500;Cogénération;9;23.56
-2012;2;500;Cogénération;1;0.02
-2012;3;200;Eolien;34;259.43
-2012;4;300;Hydraulique;220;126.48
-2012;3;100;Photovoltaïque;7656;96.56
-2012;4;600;Autres;2;5.4
-2012;2;400;Bio énergie;22;18.4
-2012;4;500;Cogénération;23;58.36
-2012;3;500;Cogénération;4;4.45
-2012;4;200;Eolien;32;246.63
-2012;2;600;Autres;19;123.87
-2012;2;300;Hydraulique;21;10.73
-2012;2;100;Photovoltaïque;7881;226.43
-2014;1;500;Cogénération;2;8.69
-2014;1;200;Eolien;17;108.87
-2014;3;200;Eolien;25;224.68
-2014;1;100;Photovoltaïque;7066;189.09
-2014;2;100;Photovoltaïque;6979;206.61
-2014;4;400;Bio énergie;18;22.71
-2014;4;500;Cogénération;24;76.32
-2014;4;100;Photovoltaïque;5324;186.26
-2014;4;600;Autres;1;0.99
-2014;1;400;Bio énergie;23;47.54
-2014;2;400;Bio énergie;15;5.42
-2014;3;400;Bio énergie;22;25.95
-2014;2;500;Cogénération;0;0.0
-2014;3;500;Cogénération;0;0.0
-2014;3;300;Hydraulique;18;7.76
-2014;4;300;Hydraulique;27;25.21
-2014;3;100;Photovoltaïque;6294;275.65
-2014;1;600;Autres;5;7.9
-2014;3;600;Autres;1;0.8
-2014;2;300;Hydraulique;18;2.72
-2014;2;600;Autres;2;10.08
-2014;2;200;Eolien;31;267.67
-2014;4;200;Eolien;40;346.75
-2014;1;300;Hydraulique;34;4.34
-2015;1;600;Autres;4;10.55
-2015;2;600;Autres;1;5.0
-2015;3;600;Autres;1;2.5
-2015;2;400;Bio énergie;22;32.81
-2015;1;500;Cogénération;5;26.94
-2015;3;500;Cogénération;2;0.11
-2015;2;200;Eolien;16;133.54
-2015;4;300;Hydraulique;43;35.16
-2015;1;200;Eolien;20;214.59
-2015;2;300;Hydraulique;24;4.17
-2015;3;300;Hydraulique;22;2.53
-2015;3;100;Photovoltaïque;4078;155.1
-2015;4;600;Autres;1;0.25
-2015;3;400;Bio énergie;12;6.35
-2015;4;400;Bio énergie;11;5.54
-2015;1;300;Hydraulique;29;17.19
-2015;1;100;Photovoltaïque;4440;211.4
-2015;2;100;Photovoltaïque;3991;155.46
-2015;2;500;Cogénération;1;0.04
-2015;4;500;Cogénération;36;86.77
-2015;3;200;Eolien;27;242.77
-2015;1;400;Bio énergie;23;10.79
-2015;4;200;Eolien;30;292.34
-2015;4;100;Photovoltaïque;4417;86.27
-2016;2;600;Autres;0;0.0
-2016;4;600;Autres;3;4.69
-2016;4;500;Cogénération;69;174.0
-2016;2;200;Eolien;35;349.41
-2016;2;100;Photovoltaïque;4070;145.03
-2016;4;100;Photovoltaïque;3161;101.9
-2016;3;600;Autres;0;0.0
-2016;3;200;Eolien;26;217.1
-2016;1;600;Autres;0;0.0
-2016;1;400;Bio énergie;17;18.63
-2016;2;500;Cogénération;0;0.0
-2016;4;300;Hydraulique;20;6.24
-2016;1;100;Photovoltaïque;4842;176.44
-2016;3;100;Photovoltaïque;3605;112.55
-2016;2;400;Bio énergie;23;7.75
-2016;1;200;Eolien;17;128.91
-2016;1;300;Hydraulique;26;4.46
-2016;2;300;Hydraulique;22;15.59
-2016;3;300;Hydraulique;11;8.37
-2016;3;400;Bio énergie;22;11.41
-2016;4;400;Bio énergie;14;15.67
-2016;1;500;Cogénération;7;13.55
-2016;3;500;Cogénération;4;7.09
-2016;4;200;Eolien;56;498.59
-2017;1;400;Bio énergie;20;9.27
-2017;1;600;Autres;1;0.05
-2017;1;500;Cogénération;14;61.19
-2017;1;200;Eolien;27;228.86
-2017;1;300;Hydraulique;24;15.75
-2017;1;100;Photovoltaïque;3753;74.8
-Année;Trimestre;code;typeprod;NB;MW
-2009;4;600;Autres;0;0.0
-2009;2;400;Bio énergie;0;0.0
-2009;2;500;Cogénération;1;2.0
-2009;3;300;Hydraulique;15;5.88
-2009;4;100;Photovoltaïque;13157;67.48
-2009;1;600;Autres;2;14.85
-2009;1;400;Bio énergie;9;14.37
-2009;3;500;Cogénération;2;0.05
-2009;1;200;Eolien;39;276.04
-2009;2;200;Eolien;42;288.93
-2009;4;200;Eolien;45;296.6
-2009;2;600;Autres;0;0.0
-2009;3;400;Bio énergie;6;16.55
-2009;4;500;Cogénération;21;59.56
-2009;3;200;Eolien;37;239.47
-2009;4;300;Hydraulique;19;6.56
-2009;4;400;Bio énergie;8;12.76
-2009;2;300;Hydraulique;10;4.66
-2009;3;600;Autres;0;0.0
-2009;1;500;Cogénération;6;34.44
-2009;1;300;Hydraulique;16;7.88
-2009;1;100;Photovoltaïque;7049;30.58
-2009;2;100;Photovoltaïque;7825;38.16
-2009;3;100;Photovoltaïque;9079;44.02
-2010;3;600;Autres;0;0.0
-2010;4;600;Autres;6;44.07
-2010;4;400;Bio énergie;9;4.7
-2010;1;500;Cogénération;3;10.33
-2010;4;500;Cogénération;27;66.11
-2010;2;200;Eolien;25;209.68
-2010;1;300;Hydraulique;18;14.1
-2010;4;300;Hydraulique;22;30.92
-2010;2;400;Bio énergie;4;5.39
-2010;1;100;Photovoltaïque;21476;94.45
-2010;2;600;Autres;0;0.0
-2010;1;400;Bio énergie;6;13.31
-2010;1;200;Eolien;31;125.27
-2010;4;200;Eolien;43;361.81
-2010;3;300;Hydraulique;7;1.5
-2010;3;100;Photovoltaïque;30280;218.79
-2010;1;600;Autres;0;0.0
-2010;3;200;Eolien;49;386.54
-2010;2;500;Cogénération;2;1.38
-2010;3;500;Cogénération;0;0.0
-2010;3;400;Bio énergie;11;14.68
-2010;2;300;Hydraulique;11;4.15
-2010;2;100;Photovoltaïque;19275;140.25
-2010;4;100;Photovoltaïque;31524;233.78
-2011;3;600;Autres;0;0.0
-2011;3;400;Bio énergie;14;11.76
-2011;4;500;Cogénération;41;112.39
-2011;1;200;Eolien;28;212.59
-2011;1;300;Hydraulique;20;9.71
-2011;2;300;Hydraulique;11;3.87
-2011;2;100;Photovoltaïque;21421;378.04
-2011;1;600;Autres;1;6.65
-2011;1;400;Bio énergie;13;6.32
-2011;2;400;Bio énergie;4;10.95
-2011;1;100;Photovoltaïque;35164;313.19
-2011;2;600;Autres;6;29.98
-2011;1;500;Cogénération;6;25.06
-2011;2;200;Eolien;22;129.59
-2011;3;200;Eolien;25;197.3
-2011;3;100;Photovoltaïque;12189;418.31
-2011;4;600;Autres;2;9.82
-2011;4;400;Bio énergie;10;8.6
-2011;2;500;Cogénération;1;0.04
-2011;3;500;Cogénération;1;1.99
-2011;4;200;Eolien;25;129.66
-2011;3;300;Hydraulique;14;7.52
-2011;4;300;Hydraulique;21;10.42
-2011;4;100;Photovoltaïque;8782;395.88
-2012;3;600;Autres;1;6.76
-2012;4;400;Bio énergie;17;21.75
-2012;1;200;Eolien;18;97.61
-2012;3;300;Hydraulique;25;12.99
-2012;1;600;Autres;16;109.88
-2012;2;200;Eolien;16;121.59
-2012;1;300;Hydraulique;19;6.65
-2012;1;100;Photovoltaïque;9435;309.34
-2012;4;100;Photovoltaïque;8192;83.9
-2012;1;400;Bio énergie;20;31.2
-2012;3;400;Bio énergie;14;20.71
-2012;1;500;Cogénération;9;23.56
-2012;2;500;Cogénération;1;0.02
-2012;3;200;Eolien;34;259.43
-2012;4;300;Hydraulique;220;126.48
-2012;3;100;Photovoltaïque;7656;96.56
-2012;4;600;Autres;2;5.4
-2012;2;400;Bio énergie;22;18.4
-2012;4;500;Cogénération;23;58.36
-2012;3;500;Cogénération;4;4.45
-2012;4;200;Eolien;32;246.63
-2012;2;600;Autres;19;123.87
-2012;2;300;Hydraulique;21;10.73
-2012;2;100;Photovoltaïque;7881;226.43
-2014;1;500;Cogénération;2;8.69
-2014;1;200;Eolien;17;108.87
-2014;3;200;Eolien;25;224.68
-2014;1;100;Photovoltaïque;7066;189.09
-2014;2;100;Photovoltaïque;6979;206.61
-2014;4;400;Bio énergie;18;22.71
-2014;4;500;Cogénération;24;76.32
-2014;4;100;Photovoltaïque;5324;186.26
-2014;4;600;Autres;1;0.99
-2014;1;400;Bio énergie;23;47.54
-2014;2;400;Bio énergie;15;5.42
-2014;3;400;Bio énergie;22;25.95
-2014;2;500;Cogénération;0;0.0
-2014;3;500;Cogénération;0;0.0
-2014;3;300;Hydraulique;18;7.76
-2014;4;300;Hydraulique;27;25.21
-2014;3;100;Photovoltaïque;6294;275.65
-2014;1;600;Autres;5;7.9
-2014;3;600;Autres;1;0.8
-2014;2;300;Hydraulique;18;2.72
-2014;2;600;Autres;2;10.08
-2014;2;200;Eolien;31;267.67
-2014;4;200;Eolien;40;346.75
-2014;1;300;Hydraulique;34;4.34
-2015;1;600;Autres;4;10.55
-2015;2;600;Autres;1;5.0
-2015;3;600;Autres;1;2.5
-2015;2;400;Bio énergie;22;32.81
-2015;1;500;Cogénération;5;26.94
-2015;3;500;Cogénération;2;0.11
-2015;2;200;Eolien;16;133.54
-2015;4;300;Hydraulique;43;35.16
-2015;1;200;Eolien;20;214.59
-2015;2;300;Hydraulique;24;4.17
-2015;3;300;Hydraulique;22;2.53
-2015;3;100;Photovoltaïque;4078;155.1
-2015;4;600;Autres;1;0.25
-2015;3;400;Bio énergie;12;6.35
-2015;4;400;Bio énergie;11;5.54
-2015;1;300;Hydraulique;29;17.19
-2015;1;100;Photovoltaïque;4440;211.4
-2015;2;100;Photovoltaïque;3991;155.46
-2015;2;500;Cogénération;1;0.04
-2015;4;500;Cogénération;36;86.77
-2015;3;200;Eolien;27;242.77
-2015;1;400;Bio énergie;23;10.79
-2015;4;200;Eolien;30;292.34
-2015;4;100;Photovoltaïque;4417;86.27
-2016;2;600;Autres;0;0.0
-2016;4;600;Autres;3;4.69
-2016;4;500;Cogénération;69;174.0
-2016;2;200;Eolien;35;349.41
-2016;2;100;Photovoltaïque;4070;145.03
-2016;4;100;Photovoltaïque;3161;101.9
-2016;3;600;Autres;0;0.0
-2016;3;200;Eolien;26;217.1
-2016;1;600;Autres;0;0.0
-2016;1;400;Bio énergie;17;18.63
-2016;2;500;Cogénération;0;0.0
-2016;4;300;Hydraulique;20;6.24
-2016;1;100;Photovoltaïque;4842;176.44
-2016;3;100;Photovoltaïque;3605;112.55
-2016;2;400;Bio énergie;23;7.75
-2016;1;200;Eolien;17;128.91
-2016;1;300;Hydraulique;26;4.46
-2016;2;300;Hydraulique;22;15.59
-2016;3;300;Hydraulique;11;8.37
-2016;3;400;Bio énergie;22;11.41
-2016;4;400;Bio énergie;14;15.67
-2016;1;500;Cogénération;7;13.55
-2016;3;500;Cogénération;4;7.09
-2016;4;200;Eolien;56;498.59
-2017;1;400;Bio énergie;20;9.27
-2017;1;600;Autres;1;0.05
-2017;1;500;Cogénération;14;61.19
-2017;1;200;Eolien;27;228.86
-2017;1;300;Hydraulique;24;15.75
-2017;1;100;Photovoltaïque;3753;74.8
+Index,Année,Région,insee_region,Production hydraulique renouvelable (GWh),Production bioénergie renouvelable (GWh),Production éolienne renouvelable (GWh),Production solaire renouvelable (GWh)
+0,2011,Bourgogne-Franche-Comté,27,639.3,81.6,154.1,58.3
+1,2011,Hauts-de-France,32,3.7,327.9,2473.8,47.5
+2,2011,Grand-Est,44,6519.9,237.8,2685.8,171.9
+3,2011,Auvergne-Rhône-Alpes,84,19358.3,253.1,606.4,244.3
+4,2011,Occitanie,76,7740.1,439.4,1815.1,447.1
+5,2011,Nouvelle-Aquitaine,75,2278.9,943.3,346.8,332.9
+6,2011,Pays de la Loire,52,11.3,133.6,703.6,187.5
+7,2011,Corse,94,294.0,8.2,24.2,25.1
+8,2011,Provence-Alpes-Côte d'Azur,93,7915.7,288.5,92.5,338.7
+9,2011,Bretagne,53,509.8,74.6,1112.9,95.4
+10,2011,Centre-Val de Loire,24,56.3,132.1,1216.4,53.3
+11,2011,Ile-de-France,11,44.9,677.4,13.9,27.5
+12,2011,Normandie,28,111.0,259.7,829.5,39.1
+0,2012,Auvergne-Rhône-Alpes,84,26869.1,299.0,777.9,438.2
+1,2012,Pays de la Loire,52,16.0,172.1,885.0,277.8
+2,2012,Nouvelle-Aquitaine,75,3225.0,970.2,648.9,752.2
+3,2012,Provence-Alpes-Côte d'Azur,93,9079.4,321.8,116.5,674.6
+4,2012,Occitanie,76,8921.1,468.6,2072.5,894.6
+5,2012,Hauts-de-France,32,13.0,358.8,2764.3,104.4
+6,2012,Normandie,28,152.0,265.9,948.8,83.7
+7,2012,Ile-de-France,11,56.0,693.6,54.5,53.7
+8,2012,Grand-Est,44,8743.4,252.6,3517.4,319.8
+9,2012,Bretagne,53,510.7,86.1,1286.0,138.3
+10,2012,Centre-Val de Loire,24,118.0,142.8,1560.0,129.1
+11,2012,Bourgogne-Franche-Comté,27,1050.4,89.7,271.0,102.2
+12,2012,Corse,94,336.0,7.8,27.9,101.3
+0,2013,Grand-Est,44,8624.5,430.3,3688.5,409.6
+1,2013,Provence-Alpes-Côte d'Azur,93,12394.3,332.1,116.0,813.5
+2,2013,Corse,94,598.0,11.4,20.9,113.4
+3,2013,Hauts-de-France,32,14.5,440.6,3262.5,106.8
+4,2013,Nouvelle-Aquitaine,75,4568.3,1065.9,714.1,830.0
+5,2013,Centre-Val de Loire,24,171.4,233.6,1513.2,166.4
+6,2013,Ile-de-France,11,35.2,786.3,38.4,58.2
+7,2013,Normandie,28,134.9,309.9,968.8,92.4
+8,2013,Auvergne-Rhône-Alpes,84,30409.8,471.8,744.3,472.7
+9,2013,Bretagne,53,479.8,159.1,1405.8,153.0
+10,2013,Occitanie,76,11961.5,508.1,2197.1,989.8
+11,2013,Pays de la Loire,52,13.4,266.4,983.5,303.7
+12,2013,Bourgogne-Franche-Comté,27,1062.8,91.9,288.3,150.4
+0,2014,Bretagne,53,548.6,210.5,1396.4,177.4
+1,2014,Hauts-de-France,32,14.6,543.2,3642.8,117.6
+2,2014,Bourgogne-Franche-Comté,27,825.8,110.0,374.5,192.6
+3,2014,Occitanie,76,11305.0,498.7,2191.0,1304.8
+4,2014,Provence-Alpes-Côte d'Azur,93,11053.9,380.8,105.9,1014.8
+5,2014,Grand-Est,44,7882.0,434.2,3975.7,458.3
+6,2014,Corse,94,493.3,11.4,31.3,123.6
+7,2014,Nouvelle-Aquitaine,75,4112.3,1086.8,820.4,1171.7
+8,2014,Auvergne-Rhône-Alpes,84,25942.2,536.1,764.4,636.3
+9,2014,Centre-Val de Loire,24,138.6,285.1,1626.3,198.0
+10,2014,Ile-de-France,11,52.2,818.5,37.9,66.0
+11,2014,Normandie,28,155.6,301.6,1046.5,112.5
+12,2014,Pays de la Loire,52,23.6,281.9,1072.3,368.4
+0,2015,Pays de la Loire,52,18.4,277.5,1223.4,421.8
+1,2015,Bourgogne-Franche-Comté,27,727.6,122.4,695.4,219.6
+2,2015,Corse,94,347.4,10.2,24.2,147.6
+3,2015,Grand-Est,44,7176.9,512.4,5165.7,491.7
+4,2015,Auvergne-Rhône-Alpes,84,23723.6,591.8,799.0,784.3
+5,2015,Ile-de-France,11,55.2,709.0,52.7,71.9
+6,2015,Hauts-de-France,32,13.2,713.9,4966.2,126.0
+7,2015,Bretagne,53,531.9,229.9,1651.0,187.3
+8,2015,Occitanie,76,9424.0,520.9,2318.0,1603.6
+9,2015,Normandie,28,117.0,313.9,1259.7,121.6
+10,2015,Provence-Alpes-Côte d'Azur,93,8994.1,435.0,105.4,1206.3
+11,2015,Nouvelle-Aquitaine,75,3082.2,1298.7,924.0,1817.0
+12,2015,Centre-Val de Loire,24,99.2,322.0,1927.6,234.3
+0,2016,Grand-Est,44,8182.5,529.1,4922.9,468.3
+1,2016,Normandie,28,130.4,304.4,1186.3,126.6
+2,2016,Pays de la Loire,52,18.7,278.0,1261.1,443.5
+3,2016,Corse,94,471.3,9.2,32.9,156.6
+4,2016,Hauts-de-France,32,15.5,749.5,4857.7,128.7
+5,2016,Ile-de-France,11,58.0,795.3,60.9,70.4
+6,2016,Nouvelle-Aquitaine,75,3940.4,1341.5,920.1,2219.7
+7,2016,Occitanie,76,9949.3,560.3,2641.0,1834.0
+8,2016,Bourgogne-Franche-Comté,27,936.6,126.2,778.6,216.6
+9,2016,Bretagne,53,547.4,244.8,1477.2,197.9
+10,2016,Centre-Val de Loire,24,128.2,325.1,1622.9,243.5
+11,2016,Provence-Alpes-Côte d'Azur,93,9130.5,561.6,108.6,1354.8
+12,2016,Auvergne-Rhône-Alpes,84,25719.7,678.6,853.7,810.6
