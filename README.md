@@ -11,3 +11,8 @@ A mini-API example.
 # Hands on :
 
 An exercice to feel data manipulation with Python
+
+
+# HR analytics :
+
+A 1 hour end-to-end Machine learning demo applied to a HR dataset
