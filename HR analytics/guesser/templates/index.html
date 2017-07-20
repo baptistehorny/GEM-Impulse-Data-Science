@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+{% block content %}
+  <div class="row justify-content-md-center">
+    <div class="col-10">
+      <div class="card mb-4">
+      <h4 class="card-header">Enter parameters</h4>
+        <div class="card-block">
+          {% from "_formhelpers.html" import render_field %}
+          <form method=post>
+            {{ render_field(form.satisfaction_level,class_="form-control") }}
+            {{ render_field(form.average_montly_hours,class_="form-control") }}
+            {{ render_field(form.number_project,class_="form-control") }}
+            {{ render_field(form.salary,class_="form-control") }}
+            {{ render_field(form.promotion_last_5years,class_="form-control") }}
+            <p><input type=submit class="btn btn-primary" value=Calculer>
+          </form>
+        </div>
+      </div>
+      {% if answer == "leaving" %}
+      <h1 class="text-center text-danger">Employee is leaving</h1>
+      {% elif answer == "staying" %}
+      <h1 class="text-center text-success">Employee is staying</h1>
+      {% endif %}
+
+    </div>
+  </div>
+  </div>
+{% endblock %}

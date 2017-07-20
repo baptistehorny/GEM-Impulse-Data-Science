@@ -1,0 +1,33 @@
+digraph Tree {
+node [shape=box, style="filled, rounded", color="black", fontname=helvetica] ;
+edge [fontname=helvetica] ;
+0 [label="satisfaction_level <= 0.465\ngini = 0.4984\nsamples = 5678\nvalue = [3001, 2677]\nclass = stayed", fillcolor="#e581391c"] ;
+1 [label="number_project <= 2.5\ngini = 0.2944\nsamples = 2297\nvalue = [412, 1885]\nclass = left", fillcolor="#399de5c7"] ;
+0 -> 1 [labeldistance=2.5, labelangle=45, headlabel="True"] ;
+2 [label="average_montly_hours <= 164.0\ngini = 0.0771\nsamples = 1195\nvalue = [48, 1147]\nclass = left", fillcolor="#399de5f4"] ;
+1 -> 2 ;
+3 [label="gini = 0.0421\nsamples = 1162\nvalue = [25, 1137]\nclass = left", fillcolor="#399de5f9"] ;
+2 -> 3 ;
+4 [label="gini = 0.4224\nsamples = 33\nvalue = [23, 10]\nclass = stayed", fillcolor="#e5813990"] ;
+2 -> 4 ;
+5 [label="satisfaction_level <= 0.115\ngini = 0.4424\nsamples = 1102\nvalue = [364, 738]\nclass = left", fillcolor="#399de581"] ;
+1 -> 5 ;
+6 [label="gini = 0.0\nsamples = 657\nvalue = [0, 657]\nclass = left", fillcolor="#399de5ff"] ;
+5 -> 6 ;
+7 [label="gini = 0.2978\nsamples = 445\nvalue = [364, 81]\nclass = stayed", fillcolor="#e58139c6"] ;
+5 -> 7 ;
+8 [label="average_montly_hours <= 216.5\ngini = 0.3588\nsamples = 3381\nvalue = [2589, 792]\nclass = stayed", fillcolor="#e58139b1"] ;
+0 -> 8 [labeldistance=2.5, labelangle=-45, headlabel="False"] ;
+9 [label="number_project <= 5.5\ngini = 0.0791\nsamples = 1624\nvalue = [1557, 67]\nclass = stayed", fillcolor="#e58139f4"] ;
+8 -> 9 ;
+10 [label="gini = 0.0718\nsamples = 1582\nvalue = [1523, 59]\nclass = stayed", fillcolor="#e58139f5"] ;
+9 -> 10 ;
+11 [label="gini = 0.3084\nsamples = 42\nvalue = [34, 8]\nclass = stayed", fillcolor="#e58139c3"] ;
+9 -> 11 ;
+12 [label="satisfaction_level <= 0.715\ngini = 0.4847\nsamples = 1757\nvalue = [1032, 725]\nclass = stayed", fillcolor="#e581394c"] ;
+8 -> 12 ;
+13 [label="gini = 0.1616\nsamples = 530\nvalue = [483, 47]\nclass = stayed", fillcolor="#e58139e6"] ;
+12 -> 13 ;
+14 [label="gini = 0.4945\nsamples = 1227\nvalue = [549, 678]\nclass = left", fillcolor="#399de531"] ;
+12 -> 14 ;
+}

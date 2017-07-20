@@ -1,0 +1,14 @@
+<html>
+<head>
+    <title>OI-OSE converter</title>
+    <link rel="stylesheet"
+          href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/css/bootstrap.min.css"
+          integrity="sha384-rwoIResjU2yc3z8GV/NPeZWAv56rSmLldC3R/AZzGRnGxQQKnKkoFVhFQhNUwEyJ"
+          crossorigin="anonymous">
+    <link rel="stylesheet" href="{{ url_for('static',filename='css/custom.css')}}">
+
+</head>
+<body style="padding:100px 40px;background:url({{ url_for('static',filename='img/background.png') }})">
+    {% block content %}{% endblock %}
+</body>
+</html>
